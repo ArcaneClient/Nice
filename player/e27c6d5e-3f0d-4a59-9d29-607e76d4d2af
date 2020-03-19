@@ -16,20 +16,6 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/butterfly_2.png"
 },
-	  "420":{ 
-         "name":"420",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/420.png"
-},
-	  "koala":{ 
-         "name":"koala",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/koala.png"
-},
 	  "zonixblack":{ 
          "name":"zonixblack",
          "type":"cape",
@@ -44,33 +30,12 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/meezoid.png"
 },
-	  "youtube_1":{ 
-         "name":"youtube_1",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube_1.png"
-},
-	  "blue":{ 
-         "name":"blue",
-         "type":"dragon_wings",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/blue.png"
-},
 	  "bone":{ 
          "name":"bone",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
-},
-	  "clown":{
-         "name":"clown",
-         "type":"dragon_wings",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/clown.png"
 },
 	  "gold":{
          "name":"gold",
