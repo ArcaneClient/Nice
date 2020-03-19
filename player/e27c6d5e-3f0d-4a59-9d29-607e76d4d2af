@@ -23,13 +23,6 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/420.png"
 },
-	  "clownemoji":{ 
-         "name":"clownemoji",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/clownemoji.png"
-},
 	  "koala":{ 
          "name":"koala",
          "type":"cape",
@@ -51,26 +44,12 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/meezoid.png"
 },
-	  "animalpanda":{ 
-         "name":"animalpanda",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/animalpanda.png"
-},
 	  "youtube_1":{ 
          "name":"youtube_1",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube_1.png"
-},
-	  "weebs":{ 
-         "name":"weebs",
-         "type":"cape",
-         "scale":0.16,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/weebs.png"
 },
 	  "blue":{ 
          "name":"blue",
