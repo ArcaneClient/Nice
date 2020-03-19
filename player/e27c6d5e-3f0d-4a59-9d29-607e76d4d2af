@@ -23,77 +23,77 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/420.png"
 },
-"clownemoji":{ 
+	  "clownemoji":{ 
          "name":"clownemoji",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/clownemoji.png"
 },
-"koala":{ 
+	  "koala":{ 
          "name":"koala",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/koala.png"
 },
-"zonixblack":{ 
+	  "zonixblack":{ 
          "name":"zonixblack",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/zonixblack.png"
 },
-"meezoid":{ 
+	  "meezoid":{ 
          "name":"meezoid",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/meezoid.png"
 },
-"animalpanda":{ 
+	  "animalpanda":{ 
          "name":"animalpanda",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/animalpanda.png"
 },
-"youtube_1":{ 
+	  "youtube_1":{ 
          "name":"youtube_1",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube_1.png"
 },
-"weebs":{ 
+	  "weebs":{ 
          "name":"weebs",
          "type":"cape",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/weebs.png"
 },
-"blue":{ 
+	  "blue":{ 
          "name":"blue",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/blue.png"
 },
-"bone":{ 
+	  "bone":{ 
          "name":"bone",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
 },
-"clown":{
+	  "clown":{
          "name":"clown",
          "type":"dragon_wings",
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/clown.png"
 },
-"gold":{
+	  "gold":{
          "name":"gold",
          "type":"dragon_wings",
          "scale":0.16,
