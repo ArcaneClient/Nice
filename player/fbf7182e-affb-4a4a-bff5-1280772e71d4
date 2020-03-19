@@ -2,12 +2,33 @@
    "uuid":"fbf7182e-affb-4a4a-bff5-1280772e71d4",
    "username":WallArt,
    "cosmetics":{ 
-      "black":{ 
-         "name":"black",
+	  "meezoid":{ 
+         "name":"meezoid",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/meezoid.png"
+},
+     "butterfly_2":{ 
+         "name":"butterfly_2",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/butterfly_2.png"
+},
+	  "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
+},
+	  "gold":{
+         "name":"gold",
+         "type":"dragon_wings",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/gold.png"
       }
    }
 }
