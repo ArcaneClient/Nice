@@ -1,0 +1,20 @@
+{ 
+   "uuid":"5a4534b2-7084-4d9e-b8c2-292a4dcc8b9a",
+   "username":KeldanYT,
+   "cosmetics":{ 
+      "guatemala":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
