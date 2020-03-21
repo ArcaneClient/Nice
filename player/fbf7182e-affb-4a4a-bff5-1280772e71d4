@@ -29,6 +29,10 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/gold.png"
-      }
-   }
-}
+},
+          "canada":{
+         "name":"canada",
+         "type":"canada_cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/canada.png"
