@@ -1,11 +1,20 @@
 { 
-   "uuid":"20684601-6dfe-4ec3-b7ea-a7d37ce61ce1",
-   "username":LudicrousPowerL,
+   "uuid":"ddfd8fed-803f-48c9-a8e4-88a474bdda19",
+   "username":ArcaneClient,
    "cosmetics":{ 
-      "zonixwhite":{ 
-         "name":"zonixwhite",
+	  "canada":{ 
+         "name":"canada",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/Serversided/Public-Cosmetics/blob/master/cosmetics/capes/zonixwhite.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/canada.png"
 },
+     "butterfly_2":{ 
+         "name":"butterfly_2",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/butterfly_2.png"
+      }
+   }
+}
