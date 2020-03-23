@@ -1,0 +1,13 @@
+{ 
+   "uuid":"5a7832e0-d975-4ea2-a3d5-367b3bf2a6af",
+   "username":iDurpy,
+   "cosmetics":{ 
+      "youtube_3":{ 
+         "name":"youtube_3",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube_3.png"
+      }
+   }
+}
