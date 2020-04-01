@@ -1,0 +1,20 @@
+{ 
+   "uuid":"421294e1-2456-4b5f-99ce-178eeb5eb134",
+   "username":NiceStrafes,
+   "weeb12":{ 
+      "guatemala":{ 
+         "name":"weeb12",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Weeb12.png"
+},
+      "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
+      }
+   }
+}
