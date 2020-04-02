@@ -2,12 +2,12 @@
    "uuid":"421294e1-2456-4b5f-99ce-178eeb5eb134",
    "username":NiceStrafes,
    "cosmetics":{ 
-      "chair":{ 
-         "name":"chair",
+      "sad":{ 
+         "name":"sad",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Chair.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Sad.png"
 },
       "black":{ 
          "name":"black",
