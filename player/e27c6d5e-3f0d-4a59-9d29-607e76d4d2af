@@ -2,12 +2,12 @@
    "uuid":"e27c6d5e-3f0d-4a59-9d29-607e76d4d2af",
    "username":RegeditMen,
    "cosmetics":{ 
-	  "weeb4":{ 
-         "name":"weeb4",
+	  "Sad":{ 
+         "name":"Sad",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/weeb4.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Sad.png"
 },
      "blue":{ 
          "name":"blue",
