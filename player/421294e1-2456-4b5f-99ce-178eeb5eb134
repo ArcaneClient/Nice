@@ -2,19 +2,19 @@
    "uuid":"421294e1-2456-4b5f-99ce-178eeb5eb134",
    "username":NiceStrafes,
    "cosmetics":{ 
-      "weeb12":{ 
-         "name":"weeb12",
+      "chair":{ 
+         "name":"chair",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Weeb12.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Chair.png"
 },
-      "bone":{ 
-         "name":"bone",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/black.png"
       }
    }
 }
