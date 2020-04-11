@@ -2,19 +2,19 @@
    "uuid":"e27c6d5e-3f0d-4a59-9d29-607e76d4d2af",
    "username":RegeditMen,
    "cosmetics":{ 
-	  "Hot":{ 
-         "name":"Hot",
+	  "mmc":{ 
+         "name":"mmc",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Hot.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/mmc.png"
 },
-     "ice":{ 
-         "name":"ice",
+     "bone":{ 
+         "name":"bone",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/ice.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
       }
    }
 }
