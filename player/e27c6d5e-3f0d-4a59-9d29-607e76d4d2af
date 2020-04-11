@@ -2,12 +2,12 @@
    "uuid":"e27c6d5e-3f0d-4a59-9d29-607e76d4d2af",
    "username":RegeditMen,
    "cosmetics":{ 
-	  "niggaer":{ 
-         "name":"niggaer",
+	  "sad":{ 
+         "name":"sad",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/niggaer.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/sad.png"
 },
      "bone":{ 
          "name":"bone",
