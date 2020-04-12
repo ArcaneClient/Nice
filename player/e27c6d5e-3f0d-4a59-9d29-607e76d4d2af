@@ -2,12 +2,12 @@
    "uuid":"e27c6d5e-3f0d-4a59-9d29-607e76d4d2af",
    "username":RegeditMen,
    "cosmetics":{ 
-	  "sad":{ 
-         "name":"sad",
+	  "Demon":{ 
+         "name":"Demon",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/sad.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Demon.png"
 },
      "bone":{ 
          "name":"bone",
