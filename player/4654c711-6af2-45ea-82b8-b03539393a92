@@ -1,4 +1,20 @@
 { 
    "uuid":"4654c711-6af2-45ea-82b8-b03539393a92",
    "username":SeruxClient,
-   "cosmetics":{ 
+   "cosmetics":{
+   "Anime":{ 
+         "name":"Anime",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Anime.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/black.png"
+      }
+   }
+}
