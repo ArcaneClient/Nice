@@ -2,12 +2,19 @@
    "uuid":"b22fe2f4-de47-49c2-9ebf-6f2d1a949632",
    "username":OgWater,
    "cosmetics":{ 
-      "sad":{ 
-         "name":"sad",
+      "youtube":{ 
+         "name":"youtube",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Sad.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/youtube.png"
+},
+      "viperblue":{ 
+         "name":"viperblue",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/viperblue.png"
 },
       "black":{ 
          "name":"black",
