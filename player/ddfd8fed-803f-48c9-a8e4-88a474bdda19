@@ -2,12 +2,12 @@
    "uuid":"ddfd8fed-803f-48c9-a8e4-88a474bdda19",
    "username":ArcaneClient,
    "cosmetics":{
-     "2016":{ 
-         "name":"2016",
+     "viperblack":{ 
+         "name":"viperblack",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2016.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/viperblack.png"
 },
      "Ice":{ 
          "name":"Ice",
