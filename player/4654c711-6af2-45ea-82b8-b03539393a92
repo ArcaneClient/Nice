@@ -2,12 +2,12 @@
    "uuid":"4654c711-6af2-45ea-82b8-b03539393a92",
    "username":SeruxClient,
    "cosmetics":{
-   "Anime":{ 
-         "name":"Anime",
+   "kitten":{ 
+         "name":"kitten",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Anime.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/kitten.png"
 },
       "black":{ 
          "name":"black",
