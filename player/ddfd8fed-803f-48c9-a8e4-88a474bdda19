@@ -9,34 +9,6 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/viperblack.png"
 },
-     "Ice":{ 
-         "name":"Ice",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/Ice.png"
-},
-     "bone":{ 
-         "name":"bone",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/bone.png"
-},
-     "blue":{ 
-         "name":"blue",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/blue.png"
-},
-     "red":{ 
-         "name":"red",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/red.png"
-},
      "black":{ 
          "name":"black",
          "type":"dragon_wings",
