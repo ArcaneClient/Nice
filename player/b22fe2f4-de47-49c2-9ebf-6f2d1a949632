@@ -1,0 +1,20 @@
+{ 
+   "uuid":"b22fe2f4-de47-49c2-9ebf-6f2d1a949632",
+   "username":OgWater,
+   "cosmetics":{ 
+      "sad":{ 
+         "name":"sad",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Sad.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/black.png"
+      }
+   }
+}
