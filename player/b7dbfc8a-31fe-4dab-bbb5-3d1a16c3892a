@@ -2,12 +2,12 @@
    "uuid":"b7dbfc8a-31fe-4dab-bbb5-3d1a16c3892a",
    "username":toggledL,
    "cosmetics":{ 
-      "twitch":{ 
-         "name":"4th_hokage",
+      "Demon1":{ 
+         "name":"Demon1",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/4th_hokage.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Demon1.png"
 },
       "black":{ 
          "name":"black",
