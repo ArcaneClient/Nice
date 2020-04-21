@@ -1,1 +1,21 @@
-
+  
+{ 
+   "uuid":"48016f10-3fc6-438a-ae08-ec604e4b5bc6",
+   "username":meezoid,
+   "cosmetics":{
+   "cb_staff":{ 
+         "name":"meezoid",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/meezoid.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/black.png"
+      }
+   }
+}
