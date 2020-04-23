@@ -1,0 +1,20 @@
+{ 
+   "uuid":"569be384-6120-43b8-a832-2df49a69f9b3",
+   "username":ignMark,
+   "cosmetics":{ 
+      "Demon1":{ 
+         "name":"Demon1",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Demon1.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/red.png"
+      }
+   }
+}
