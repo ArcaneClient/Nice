@@ -2,19 +2,19 @@
    "uuid":"ddfd8fed-803f-48c9-a8e4-88a474bdda19",
    "username":ArcaneClient,
    "cosmetics":{
-     "moonsworth_4":{ 
-         "name":"moonsworth_4",
+     "moonsworth_7":{ 
+         "name":"moonsworth_7",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/moonsworth_4.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/moonsworth_7.png"
 },
-     "black":{ 
-         "name":"black",
+     "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/red.png"
       }
    }
 }
