@@ -2,12 +2,12 @@
    "uuid":"dab3efa0-9124-439e-ac10-bd2959931447",
    "username":Luinion,
    "cosmetics":{
-     "moonsworth_2":{ 
-         "name":"moonsworth_2",
+     "moonsworth_7":{ 
+         "name":"moonsworth_7",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/moonsworth_2.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/moonsworth_7.png"
 },
      "black":{ 
          "name":"black",
