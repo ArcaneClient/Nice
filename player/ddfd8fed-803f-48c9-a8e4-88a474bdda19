@@ -2,12 +2,12 @@
    "uuid":"ddfd8fed-803f-48c9-a8e4-88a474bdda19",
    "username":ArcaneClient,
    "cosmetics":{
-     "dev_cape":{ 
-         "name":"dev_cape",
+     "moonsworth_7":{ 
+         "name":"moonsworth_7",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/dev_cape.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/moonsworth_7.png"
 },
      "pink":{ 
          "name":"pink",
