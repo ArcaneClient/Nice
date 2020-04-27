@@ -9,7 +9,7 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/cb_gold.png"
 },
-     "pink":{ 
+     "red":{ 
          "name":"red",
          "type":"dragon_wings",
          "scale":0.15,
