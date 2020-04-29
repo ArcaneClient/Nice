@@ -1,0 +1,20 @@
+{ 
+   "uuid":"8b90cdef-1e92-40ad-a204-7932d934f7eb",
+   "username":Pausd,
+   "cosmetics":{
+     "Minecon_2016":{ 
+         "name":"Minecon_2016",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Minecon_2016.png"
+},
+     "pink":{ 
+         "name":"pink",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/pink.png"
+      }
+   }
+}
