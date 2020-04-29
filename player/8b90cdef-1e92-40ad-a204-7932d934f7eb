@@ -2,12 +2,12 @@
    "uuid":"8b90cdef-1e92-40ad-a204-7932d934f7eb",
    "username":Pausd,
    "cosmetics":{
-     "Minecon_2016":{ 
-         "name":"Minecon_2016",
+     "2016":{ 
+         "name":"2016",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Minecon_2016.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2016.png"
 },
      "pink":{ 
          "name":"pink",
