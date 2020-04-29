@@ -1,0 +1,20 @@
+{ 
+   "uuid":"544162b0-1488-47a2-ad75-5660d0ec0c72",
+   "username":MLG_FADE,
+   "cosmetics":{
+     "usa":{ 
+         "name":"usa",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/usa.png"
+},
+     "vlue":{ 
+         "name":"blue",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/wings/blue.png"
+      }
+   }
+}
