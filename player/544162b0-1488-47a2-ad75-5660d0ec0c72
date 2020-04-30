@@ -9,7 +9,21 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/usa.png"
 },
-     "vlue":{ 
+     "unnamed":{ 
+         "name":"unnamed",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/unnamed.png"
+},
+     "2016":{ 
+         "name":"2016",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2016.png"
+},
+     "blue":{ 
          "name":"blue",
          "type":"dragon_wings",
          "scale":0.15,
