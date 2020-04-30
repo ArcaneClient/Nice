@@ -9,6 +9,13 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2016.png"
 },
+     "unnamed":{ 
+         "name":"unnamed",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/unnamed.png"
+},
      "pink":{ 
          "name":"pink",
          "type":"dragon_wings",
