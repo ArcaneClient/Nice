@@ -16,6 +16,34 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2016.png"
 },
+     "2011":{ 
+         "name":"2011",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2011.png"
+},
+     "Spongbob":{ 
+         "name":"Spongbob",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/Spongbob.png"
+},
+     "2013":{ 
+         "name":"2013",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/2013.png"
+},
+     "off":{ 
+         "name":"off",
+         "type":"cape",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/off.png"
+},
      "red":{ 
          "name":"red",
          "type":"dragon_wings",
