@@ -1,13 +1,13 @@
 { 
    "uuid":"ddfd8fed-803f-48c9-a8e4-88a474bdda19",
-   "username":ArcaneClient,
+   "username":SimplyPotted,
    "cosmetics":{
      "viperblue":{ 
-         "name":"viperblue",
+         "name":"MythHCF",
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/viperblue.png"
+         "resourceLocation":"https://raw.githubusercontent.com/EndriaPvP/Nice/master/cosmetics/capes/MythHCF.png"
 },
      "red":{ 
          "name":"red",
